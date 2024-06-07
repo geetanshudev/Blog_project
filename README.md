@@ -9,3 +9,4 @@ with backend of Xampp-server MySQL
 
 ![profile](https://github.com/geetanshudev/Blog_project/assets/119582068/d242807d-dda6-4b17-87b9-533f5c6de007)
 
+![Screenshot 2024-06-06 120833](https://github.com/geetanshudev/Blog_project/assets/119582068/69da8a90-09df-4c01-8670-3f86990b4b4a)
